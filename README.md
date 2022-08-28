@@ -1,7 +1,8 @@
 # Sample-Super-Market-Analysis
 ## Description 
 This analysis below compares the prices of product by stores on tableau public 
-Data collection
+
+## Data collection
 The data was obtained from kaggle.com
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/112221807/187097162-8c6f47ef-4612-4d6a-b21b-31726b482e5d.png)
